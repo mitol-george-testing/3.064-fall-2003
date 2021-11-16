@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Polymeric Materials"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Polymers"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "72b34d9a-c05f-32e3-e1c2-8fbeb686dde3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Polymer Engineering",
+  "course_description": "This course offers and overview of engineering analysis and design techniques for synthetic polymers. Treatment of materials properties selection, mechanical characterization, and processing in design of load-bearing and environment-compatible structures are covered.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.064",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
